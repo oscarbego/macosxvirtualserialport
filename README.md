@@ -94,3 +94,5 @@ When you have finished with your virtual serial port pair, you can break the pai
 
 # Source
 Source code was pulled from https://github.com/clokey/PublicCode/tree/master/MacOSXVirtualSerialPort which was originally on Google Code. This copy is here mostly for documentation purposes while I work on a project.
+
+More Info https://linux.die.net/man/1/socat
